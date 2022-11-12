@@ -1,3 +1,0 @@
-D:/workspace/projetoc/cmake-build-debug/CMakeFiles/projetoc.dir
-D:/workspace/projetoc/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/workspace/projetoc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
